@@ -4,6 +4,7 @@ Generate fake anime faces using DCGAN
 
 
 From noise to a fake image
+
 ![anime_gan](https://user-images.githubusercontent.com/48699654/157574318-69e337c0-27d4-4b55-bc8f-fc80cf131e22.gif)
 
 
